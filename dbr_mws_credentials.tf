@@ -5,4 +5,3 @@ resource "databricks_mws_credentials" "this" {
   credentials_name = var.mws_credential_name
 }
 
-#
